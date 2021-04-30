@@ -1,7 +1,7 @@
 # Speech-to-Text
-Speech to text implementation using PyTorch on transformers
+Speech to text implementation using transformers in PyTorch.
 
-In this notebook we are going to see how to convert speech into text using Facebook's Wav2Vec 2.0 model.
+In this notebook we will see how to convert speech into text using Facebook's Wav2Vec 2.0 model.
 
 Wav2Vec2 is a speech model that accepts a float array corresponding to the raw waveform of the speech signal.
 
